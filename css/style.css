@@ -1,4 +1,7 @@
-.item_link1,.item_link2 {
+li .red_link {
     color:  red;
+}
+
+p.main_text {
     font-size: 24px;
 }
